@@ -33,7 +33,7 @@ A complete ROS2 control system for a robotic hand with advanced gesture recognit
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Shindepooja30/hand-robot-ros2-control.git
+git clone https://github.com/Shindepooja30/handrobot_ros2_control.git
 cd hand-robot-ros2-control
 ```
 
