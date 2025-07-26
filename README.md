@@ -185,3 +185,23 @@ handrobot_ros2_control/
 ├── setup.py                        # Python package setup
 └── CMakeLists.txt                  # Build configuration
 ```
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Test thoroughly
+5. Submit a pull request
+
+## 📄 License
+
+This project is open source. Feel free to use and modify as needed.
+
+## 🙏 Acknowledgments
+
+Built with ROS2 Jazzy and ros2_control framework.
+
+---
+
+**Enjoy your expressive hand robot! 🤖✋✨**
